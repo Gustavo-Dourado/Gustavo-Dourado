@@ -4,9 +4,11 @@
 
 <p align="left">Sou Gustavo Dourado, desenvolvedor Full Stack em transição de carreira, com formação em Engenharia Química . Atualmente curso Análise e Desenvolvimento de Sistemas e busco aplicar minha visão crítica e experiência técnica na criação de soluções web.</p>
 
+<br/>
+
 ###
 
-<h3 align="center">Social Media</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
@@ -15,6 +17,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
   </a>
 </div>
+
+<br/>
+<br/>
 
 ###
 
@@ -31,6 +36,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
 </div>
+
+<br/>
+<br/>
 
 ###
 
@@ -49,6 +57,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
 </div>
+
+<br/>
+<br/>
 
 ###
 
