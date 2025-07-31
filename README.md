@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Gustavo Dourado, desenvolvedor Full Stack em transição de carreira, com formação em Engenharia Química . Atualmente curso Análise e Desenvolvimento de Sistemas e busco aplicar minha visão crítica e experiência técnica na criação de soluções web.</p>
+<p align="left">👋 Olá! Sou Gustavo Dourado, desenvolvedor Full Stack em transição de carreira, com formação em Engenharia Química e experiência em áreas técnicas e analíticas. Atualmente estudo Análise e Desenvolvimento de Sistemas e me dedico a projetos com HTML, CSS, JavaScript, React e Node.js. Aqui você encontra meus projetos pessoais e aplicações desenvolvidas durante minha formação. Busco aplicar minha visão crítica, lógica e foco em resolução de problemas no desenvolvimento de soluções web.</p>
 
 <br/>
 
